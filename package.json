@@ -1,6 +1,6 @@
 {
   "name": "blake2b-universal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "blake2b that works in node and in the browser",
   "main": "index.js",
   "dependencies": {
