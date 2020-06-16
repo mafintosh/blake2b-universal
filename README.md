@@ -1,4 +1,4 @@
-# xsalsa20-universal
+# blake2b-universal
 
 blake2b instance that works in node and in the browser
 
